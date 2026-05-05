@@ -6,7 +6,7 @@
 2. Stellt dann den Verlauf des Repositories auf dem **Aufgabenblatt** nach.
 3. Nutzt dazu bestenfalls eine **Vierteilung** eures Bildschirms:
   - 1x git Bash und 1x Dateiexplorer (*User 1*)
-  - 1x git Bash und 1x Dateiexplorer (*User 2*)
+  STANDARTSKILL
 
 ## :pushpin: Aufgabenblatt:
 
